@@ -20,7 +20,7 @@ A simple IoT prototype to detect abnormal water flow indicating possible leaks u
 ---
 
 ## 📷 Prototype
-![Circuit](images/image.png)
+![Circuit](image/image.png)
 
 
 ---
