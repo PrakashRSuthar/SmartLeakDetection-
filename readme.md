@@ -1,6 +1,7 @@
 # 💧 Smart Water Leakage Detector (Arduino + Flow Sensor)
 
 A simple IoT prototype to detect abnormal water flow indicating possible leaks using a **flow sensor and Arduino Uno**.
+A more advanced and scalable version of this system can be explored by referring to the accompanying research paper by me  
 
 ---
 
